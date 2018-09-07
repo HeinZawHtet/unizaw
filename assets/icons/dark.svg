@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<title>swap_horiz</title>
+<circle fill="#FFFFFF" cx="11.875" cy="11.875" r="8.875"/>
+<g>
+	<path d="M11.875,5.219c3.67,0,6.656,2.986,6.656,6.656s-2.986,6.656-6.656,6.656s-6.656-2.986-6.656-6.656
+		S8.205,5.219,11.875,5.219 M11.875,3C6.973,3,3,6.973,3,11.875s3.973,8.875,8.875,8.875s8.875-3.973,8.875-8.875S16.777,3,11.875,3
+		L11.875,3z"/>
+</g>
+<path d="M11.875,3C6.973,3,3,6.973,3,11.875c0,4.902,3.973,8.875,8.875,8.875V3z"/>
+</svg>
